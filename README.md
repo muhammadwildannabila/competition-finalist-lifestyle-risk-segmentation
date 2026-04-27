@@ -156,7 +156,7 @@ Recommended actions:
 ## 🔗 Presentation
 
 📊 Canva Slides:  
-https://canva.link/2twsf1ms0kozj70
+https://canva.link/7m8dcxcqrklozjo
 
 ---
 
