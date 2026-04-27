@@ -2,6 +2,8 @@
 
 <div align="center">
 
+🏆 **Finalist – Data Analyst Competition, DevFest Surabaya 2025**
+
 ![Python](https://img.shields.io/badge/Python-Data%20Science-blue?style=for-the-badge&logo=python)
 ![ML](https://img.shields.io/badge/Machine%20Learning-Risk%20Model-orange?style=for-the-badge)
 ![EDA](https://img.shields.io/badge/EDA-Data%20Analysis-green?style=for-the-badge)
